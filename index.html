@@ -9,7 +9,7 @@
 <meta charset="utf-8">
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Dsign - Minimal portfolio Bootstrap template</title>
+<title>Daeng!</title>
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/flexslider.css">
 <link rel="stylesheet" href="css/jquery.fancybox.css">
@@ -25,14 +25,14 @@
 <section class="banner" role="banner">
 <!--header navigation -->
   <header id="header">
-    <div class="header-content clearfix"> <a class="logo" href="index.html"><img src="images/logo.png" alt=""></a>
-      <nav class="navigation" role="navigation">
+    <div class="header-content clearfix"> <a class="logo" href="index.html"><img src="https://avatars3.githubusercontent.com/u/30269305?s=200&v=4" style="width:50px;height:50px" alt="Daeng"></a>
+      <!-- <nav class="navigation" role="navigation">
         <ul class="primary-nav">
-          <li><a href="about.html">About me</a></li>
+          <li><a href="about.html">About us</a></li>
           <li><a href="contact.html">Contact</a></li>
 		  <li><a href="#">External Link</a></li>
         </ul>
-      </nav>
+      </nav> -->
       <a href="#" class="nav-toggle">Menu<span></span></a> </div>
       </header>
       <!--header navigation -->
@@ -47,16 +47,16 @@
           <li>
             <div class="col-md-12">
               <blockquote>
-                <h1>Hello! I'm Jonathan</h1>
-                <p>UX/UI Designer, Front-end Developer</p>
+                <h1>Daeng Indonesia, Inc.</h1>
+                <p>Rockstar developer</p>
               </blockquote>
             </div>
           </li>
           <li>
             <div class="col-md-12">
               <blockquote>
-                <h1>Hello! I'm Jonathan</h1>
-                <p>Designer from Newcastle, UK.</p>
+                <h1>Daeng Indonesia, Inc.</h1>
+                <p>Supporter for startups and businesses</p>
               </blockquote>
             </div>
           </li>
@@ -65,87 +65,58 @@
      </div>
   </div>
 </section>
-<!-- Text banner section --> 
+<!-- Text banner section -->
 <!-- portfolio section -->
-<section id="works" class="works section no-padding">
+<section id="app" class="works section no-padding">
   <div class="container-fluid">
     <div class="row no-gutter">
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-1.jpg" class="work-box"> <img src="images/work-1.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <h5>Project Name</h5>
-            <p><i class="fa fa-search-plus fa-2x"></i></p>
-          </div>
-        </div>
-        <!-- overlay --> 
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-2.jpg" class="work-box"> <img src="images/work-2.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <h5>Project Name</h5>
-            <p><i class="fa fa-search-plus fa-2x"></i></p>
-          </div>
-        </div>
-        <!-- overlay --> 
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-3.jpg" class="work-box"> <img src="images/work-3.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <h5>Project Name</h5>
-            <p><i class="fa fa-search-plus fa-2x"></i></p>
-          </div>
-        </div>
-        <!-- overlay --> 
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-4.jpg" class="work-box"> <img src="images/work-4.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <h5>Project Name</h5>
-            <p><i class="fa fa-search-plus fa-2x"></i></p>
-          </div>
-        </div>
-        <!-- overlay --> 
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-5.jpg" class="work-box"> <img src="images/work-5.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <h5>Project Name</h5>
-            <p><i class="fa fa-search-plus fa-2x"></i></p>
-          </div>
-        </div>
-        <!-- overlay --> 
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-6.jpg" class="work-box"> <img src="images/work-6.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <h5>Project Name</h5>
-            <p><i class="fa fa-search-plus fa-2x"></i></p>
-          </div>
-        </div>
-        <!-- overlay --> 
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-7.jpg" class="work-box"> <img src="images/work-7.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <h5>Project Name</h5>
-            <p><i class="fa fa-search-plus fa-2x"></i></p>
-          </div>
-        </div>
-        <!-- overlay --> 
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-8.jpg" class="work-box"> <img src="images/work-8.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <h5>Project Name</h5>
-            <p><i class="fa fa-search-plus fa-2x"></i></p>
-          </div>
-        </div>
-        <!-- overlay --> 
-        </a> </div>
+      <div v-for="item in items">
+         <div class="col-lg-3 col-md-6 col-sm-6 work"> <a class="work-box" v-bind:href="''+ item.img +''"> <img v-bind:src="''+ item.img +''" alt="">
+            <div class="overlay">
+             <div class="overlay-caption">
+                <h5>{{ item.title }}</h5>
+                <p><i class="fa fa-search-plus fa-2x"></i></p>
+             </div>
+            </div>
+            </a>
+         </div>
+      </div>
     </div>
   </div>
 </section>
-<!-- portfolio section --> 
+<!-- portfolio section -->
+<!-- <section id="teams" class="section teams">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5 col-sm-5">
+        <div class="bio">
+          <h4>I am honest, discreet and always focus on your goals.<br>
+            If you are looking for a experienced designer, just leave me a message and I'll contact you soon.</h4>
+        </div>
+      </div>
+      <div class="col-md-7 col-sm-7 conForm">
+         <div class="col-lg-3 col-md-6 col-sm-6 work">
+           <a href="images/work-8.jpg" class="work-box"> <img src="images/work-8.jpg" alt=""></a>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 work">
+          <a href="images/work-8.jpg" class="work-box"> <img src="images/work-8.jpg" alt=""></a>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 work">
+           <a href="images/work-8.jpg" class="work-box"> <img src="images/work-8.jpg" alt=""></a>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 work">
+          <a href="images/work-8.jpg" class="work-box"> <img src="images/work-8.jpg" alt=""></a>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 work">
+          <a href="images/work-8.jpg" class="work-box"> <img src="images/work-8.jpg" alt=""></a>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 work">
+          <a href="images/work-8.jpg" class="work-box"> <img src="images/work-8.jpg" alt=""></a>
+         </div>
+      </div>
+    </div>
+  </div>
+</section> -->
   <!-- footer -->
 <footer class="section footer">
   <div class="footer-bottom">
@@ -153,30 +124,48 @@
       <div class="col-md-12">
         <p>
         <ul class="footer-share">
-          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-          <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-          <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-          <li><a href="#"><i class="fa fa-vimeo"></i></a></li>
+          <li><a href="https://fb.com/daengindonesia"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="https://twitter.com/daengindonesia"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="https://www.linkedin.com/company/13197985/"><i class="fa fa-linkedin"></i></a></li>
         </ul>
         </p>
-        <p>© 2015 All rights reserved. All Rights Reserved<br>
-          Made with <i class="fa fa-heart pulse"></i> by <a href="http://kamalchaneman.com/">Designstub</a></p>
+        <p>© 2017 All rights reserved. All Rights Reserved<br>
+          Made with <i class="fa fa-heart pulse"></i> by <a href="#">You</a></p>
       </div>
     </div>
   </div>
 </footer>
-<!-- footer --> 
-<!-- JS FILES --> 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
-<script src="js/bootstrap.min.js"></script> 
-<script src="js/jquery.flexslider-min.js"></script> 
-<script src="js/jquery.fancybox.pack.js"></script> 
-<script src="js/jquery.waypoints.min.js"></script> 
-<script src="js/retina.min.js"></script> 
-<script src="js/modernizr.js"></script> 
+<!-- footer -->
+<!-- JS FILES -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.flexslider-min.js"></script>
+<script src="js/jquery.fancybox.pack.js"></script>
+<script src="js/jquery.waypoints.min.js"></script>
+<script src="js/retina.min.js"></script>
+<script src="js/modernizr.js"></script>
 <script src="js/main.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.2/vue.js"></script>
+<script>
+   new Vue({
+      el: '#app',
+      data: {
+         items: [],
+         item: ''
+      },
+      methods: {
+
+      },
+      created() {
+         axios.get('http://daeng-id-api.herokuapp.com/portfolio.php',
+            {
+               crossdomain: true
+            }).then((response) => {
+            this.items = response.data
+         })
+      }
+   })
+</script>
 </body>
 </html>
-
