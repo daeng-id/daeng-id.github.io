@@ -1,0 +1,103 @@
+Daeng.id ("Daeng", "we", "us" or "our") is strongly committed to protecting the privacy of personal information of each visitor, user or member (each, a "user", "you", or "your") of the www.daeng.id website (the "Website") and the application operated by Daeng on third-party websites not owned or operated by Daeng (the "Application"). We have established this Privacy Policy to let you know:
+
+The kinds of personal information we may gather.
+Why we gather such information and how we do so.
+What we use your personal information for.
+When we might share your personal information.
+How you can access and update your personal information.
+How we protect the information we store about you.
+By visiting the Website or Application, you are accepting the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Website and Application. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of the Website or Application following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively, we will provide you with notice of the modifications or amendments. You can always find the most recent version of our privacy policy on this page. If you have any questions about this Privacy Policy or don't see your concerns addressed here, you should contact us by email at isfaaghyth@gmail.com.
+
+As the Website and Application continue to develop, we may add new services and features. In the event that these additions affect our Privacy Policy, this document will be updated appropriately and the "last updated" date will be changed. We recommend that you read this Privacy Policy if it has been updated since the last time you have read it.
+
+Information We Collect
+We adhere to the highest standards of ethical practices in all of our operations and are dedicated to protecting the privacy of our users. When you use the Application, you allow us to access certain information from your profiles that you may have on the Third-Party Access Sites. The information you allow us to access is influenced by the privacy settings you establish at the Third-Party Access Sites. You can control and find out more about these settings at the Third-Party Access Sites. For example, we may access and store some or all of the following information, as allowed by you, the Third-Party Access Sites and your preferences:
+
+Your first and last name.
+Your car make and model.
+Your user ID number, which is linked to publically available information such as name and profile photo.
+The user ID numbers for your friends that are also connected to the Application.
+The login e-mail you provided to the Third-Party Access Site when you registered.
+Your physical location and that of your access devices.
+Your gender.
+Your birthday.
+You authorize us to collect, store, and use in accordance with this Privacy Policy any and all information that you agreed the Third-Party Access Sites could provide to us through the Third-Party Access Sites' Application Programming Interface ("API"). Your authorization takes place when you opt-in to the Application on a Third-Party Access Site, or when you access a web page on a Third-Party Access Site that contains the Application.
+
+Registration may be required and personal information may also be collected in certain portions of the Website or Application in which you specifically and knowingly provide such information, e.g. community postings. We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database.
+
+We never use or install spyware on your computer, nor do we use spyware to retrieve information from your computer.
+
+Also, like many websites, we use "cookies", which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. We use cookies to track use of the Website and Application. We may also use cookies to monitor traffic, improve the Website or Application and make it easier and/or relevant for your use. You may occasionally get cookies from companies advertising on our behalf. We do not control these cookies, and these cookies are not subject to this Privacy Policy.
+
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. If you disable cookies, you may lose some of the features and functionality of the Website and Applications.
+
+If we run a contest or sweepstakes relating to the Website or Application, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if it is different than as described in this Privacy Policy. In conjunction with your entry in such contest or sweepstakes, personal information will be collected only if you voluntarily submit it to our sponsors or us.
+
+How We Collect Information About You
+When you access our application, we collect and store certain profile information that you provide directly or through the Third-Party Access Sites. The bulk of this information is collected and stored through the use of web logs, which are files on our web servers that record actions taken on the Application and Website.
+
+You may be able to take part in certain activities on our Website or in the Application that give you the opportunity to communicate or share information not just with us, but also with other users. These include participating in forums and message boards; posting public comments to other users activities; sending messages or invitations to other users, either directly on our websites or to their e-mail accounts; and chats with other users. We may record and store archives of these communications on our servers and you acknowledge and consent to the recording and storage of such communications. Please remember that any information you share in public areas, such as message boards or feedback sections, becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public. Please be careful about what you disclose and do not post any personal information that you expect to keep private.
+
+When you access the Website or Application, we collect certain technical information in order to (i) analyze the usage of our sites and services which allows us to improve the service, (ii) provide a more personalized experience and (iii) manage advertising. We and service providers acting on our behalf, such as Google Analytics, use server log files and tracking technologies to collect and analyze certain types of technical information, including cookies, IP addresses, browser types, browser language, referring and exit pages, and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of activity, and other similar information. In some cases, we will associate this information with your user ID number for our internal use. We may collect or receive information from other sources including other users who choose to upload their contacts, and third party information providers. This information may be used to supplement your profile and may be combined with other information we collect.
+
+How We Use The Information We Collect
+We use the information we learn from you to help us personalize and continually improve your experience on the Website and Application. For example, we may use information collected from you in any one or more of the following ways:
+
+To create a profile.
+To provide application content and improve the creation of cards.
+To identify and suggest connections with other users.
+To enable user-to-user communications.
+To provide technical support and respond to user inquiries.
+To prevent or detect fraud or potentially illegal activities.
+To notify users of updates.
+To communicate about new and current content and functionality.
+To solicit input and feedback to improve our product offering.
+To customize your user experience.
+To resolve disputes, collect fees, and troubleshoot problems.
+To analyze trends and user traffic and gather statistical information.
+To inform users about new products or promotional offers.
+To enable third parties to carry out technical, logistical or other functions on our behalf.
+One important use of your information is communication. If you have provided your e-mail address, we'll use it to respond to customer support inquiries, and keep you informed of application activity, including comments from friends, notifications. We may also send promotional e-mail messages and promotional SMS messages directly or in partnership with parties other than Daeng.
+
+You always have the choice to stop receiving promotional communications by following unsubscribe instructions provided or by editing your preferences. Please note that despite your indicated e-mail preferences, we may still send you administrative messages, including, for example, administrative confirmations, and notices of updates to this Privacy Policy.
+
+We may use your personal information to fulfil orders, provide customer service, track your compliance with the Website's or Application's rules and regulations, or for editorial and feedback purposes (to the extent that is explained when you provide the information). In the event we plan to publicly post any of your personal information on a website (as, for instance, a letter), we will request your permission to provide such posting.
+
+When you interact with the Website or Application, our servers may keep an activity log that does not identify you individually ("Anonymous Information"). Generally, this information is collected though "traffic data". We collect and store certain administrative and traffic information with each use of the service or Website including: source IP address, time of access, date of access, web page(s), software crash reports, type of browser used, session identification number, search terms, search results, access times and referring websites addresses.
+
+We use information that is not personally identifiable to help us determine how users use the Website and Application and who our users are so we can improve our product offering and ensure that it is as appealing as we can make it for as many people as possible. We also use Anonymous Information to provide statistical "ratings" information in aggregated form to our partners and other third parties about how our users collectively use the Website and Application. We may also use or share Anonymous Information (or other information, other than personal information) in any other manner that we deem appropriate or necessary.
+
+We may share non-personal information with our partners and others from time to time. Examples of such non-personal information include the number of users who visited the Website or Application during a specific time period. This information generally is shared in an aggregated form.
+
+We may also use or disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Website; (b) protect and defend the our rights or property, the Website, the Application or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Website, the Application or the public.
+
+Sharing Of Your Information
+We will share your information (in some cases personal information) with third parties in the following circumstances.
+
+Your information, and the contents of your private online communications, may be accessed and disclosed (i) in response to legal process (for example, a court order, search warrant or subpoena); (ii) when we have a good faith belief that we are required to disclose the information in response to legal process; (iii) in other circumstances in which we believe the Website or Application are being used in the commission of a crime (including exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction); (iv) when we have a good faith belief that there is an emergency that poses a threat to the safety of you or another person; and (v) when necessary either to protect our rights or property including to enforce our policies, or for us to render the services you have requested.
+
+The Website and Application are not intended for children under the age of 13, and we do not knowingly collect personal identifiable information from children under 13 years of age. If you are under 13 years of age, you should not use this Website or Application, and under no circumstance should you send information about yourself to us. If we discover that a child under the age of 13 has provided us with personally identifiable information, we will immediately delete such information from our records.
+
+How to Access and Update Your Information
+To manage the information we receive about you from Third-Party Access Sites, you will need to follow the instructions at that site for updating your information and changing your privacy settings.
+
+Once we receive your information from a Third-Party Access Site, that information is stored and used by us in accordance with this Privacy Policy, and you may access and update that information as described below:
+
+If you no longer want us to make active use of your information, you may send an e-mail to isfaaghyth@gmail.com. Place "Delete My Account" in the subject line and include your first name, last name, e-mail address and user ID number for the Third-Party Access Site, if applicable, in the body of the e-mail. We will respond to your request within thirty (30) days. Please note that certain records, for example those pertaining to payments or customer service matters, will be retained for legal and accounting purposes. If you have sent or posted content on the Website or Application, we may not be able to delete it.
+If you wish to review or change the information we have about you, or if you have additional questions about this Privacy Policy, please e-mail us at isfaaghyth@gmail.com.
+Your Sharing and Messaging Options
+If you visit the Application on a Third-Party Access Site, we will be able to access and store profile and other information about you as described above. The categories of information you share with us will depend, in part, on the privacy settings you have established at the Third-Party Access Site where you access the Application. Many Third-Party Access Sites allow you to control how you share information with third-party applications and websites, such as the Application, through your privacy settings on each Third-Party Access Site. We do not control what privacy settings those sites make available to their users, so we refer you to the privacy policies that are posted on those sites to learn what options they make available to their users.
+
+Note that if you opt-out of our promotional communications, we may still e-mail or communicate with you from time to time if we need to provide you with information or if we need to request information from you with respect to a transaction initiated by you or for other legitimate non-marketing reasons.
+
+Security of Your Information
+We utilize security measures to protect the security of your information, and we are committed to the protection of your information which is stored in secure operating environments that are not available to the public.
+
+While we take precautions against possible security breaches of our websites and our customer databases and records, no website or Internet transmission is completely secure, and we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. Although we strive to protect your personal data, we cannot guarantee the security of your data while it is being transmitted to our site; any transmission is at your own risk. Once we have received your information, we have procedures and security features in place to try to prevent unauthorized access.
+
+You promise to: (a) provide true, accurate, current and complete information about yourself and your business as prompted by the Website's registration form (such information being the "Registration Data") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or Daeng has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, Daeng has the right to suspend or terminate your account and refuse any and all current or future use of the Website and Application (or any portion thereof). You are entirely responsible for the security and confidentiality of your password and accoun r taking precautions and providing security measures best suited for your situation and intended use of the Website and Application. Please note that anyone able to provide your personally identifiable information will be able access your account so you should take reasonable steps to protect this information. While we try our best to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
+
+The Website and Application are published in Malaysia. We make every effort to protect the personal identifiable information of all users of the Website and Application. We attempt to comply with local data protection and consumer rights laws to the extent they may apply to our services. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personal information to us.
+
+Contact Us
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to isfaaghyth@gmail.com.
